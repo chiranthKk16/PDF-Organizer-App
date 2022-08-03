@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PDF Organizer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="spinner_items">
+        <item>Add</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
